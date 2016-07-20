@@ -26,6 +26,9 @@
           "exclusive": true
         }
       }
+    },
+    "channels": {
+      "prefetch": false
     }
   }
 }
