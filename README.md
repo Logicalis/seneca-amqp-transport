@@ -117,6 +117,9 @@ The following object describes the available options for this transport. These a
           "exclusive": true
         }
       }
+    },
+    "channels": {
+      "prefetch": false
     }
   }
 }
