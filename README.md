@@ -1,3 +1,13 @@
+---
+
+# WARNING
+
+## This repo has been archived!
+
+NO further developement will be made in the foreseen future.
+
+---
+
 ![Seneca](http://senecajs.org/files/assets/seneca-logo.png)
 
 > A [Seneca.js][1] transport plugin
